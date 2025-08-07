@@ -134,3 +134,9 @@ Notes
 For Project 1, make sure to have creditcard.csv in the same directory.
 
 All Gradio apps are for demonstration; data is for educational use.
+
+Credits
+Made with ❤️ using Python, Scikit-learn, XGBoost, and Gradio.
+
+Feel free to fork, modify, and experiment!
+
